@@ -84,7 +84,7 @@ Visual Studio Code(C#)<br><br>
 <br>
 
 # ■ 制作期間
-1年3ヵ月<br>
+6ヵ月<br>
 
 # ■ 問い合わせ
 
